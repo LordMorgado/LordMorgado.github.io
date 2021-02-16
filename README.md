@@ -39,7 +39,7 @@
   - Rendimiento 
   - Seguridad 
  
-## Estos es lo que Aldana ve más en sus clases  
+## Estos protocolos son los que Aldana ve más en sus clases  
 ### HTTP
 ### DNS
 ### SMTP
