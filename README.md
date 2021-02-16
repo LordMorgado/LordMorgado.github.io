@@ -5,7 +5,7 @@
 ## Administración de redes de computadoras siguiendo al modelo OSI
 
 *Para consultar información básica del modelo OSI revisar material de los siguientes libros y videos:*
-- [NETWORKING SELF-TEACHING GUIDE]() _Temas:_
+- [NETWORKING SELF-TEACHING GUIDE](https://drive.google.com/file/d/164hMSjoF682H_lQERSIUefKapGsBagEm/view?usp=sharing) _Temas:_
   - *1.1*
   - *1.4*
   - *1.5*
