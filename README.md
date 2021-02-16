@@ -38,6 +38,7 @@
   - Contabilidad
   - Rendimiento 
   - Seguridad 
+ 
 ## Estos es lo que Aldana ve más en sus clases  
 ### HTTP
 ### DNS
@@ -49,13 +50,6 @@ Sobre SNMP he encontrado dos videos que pueden ser de ayuda para tener nociones 
 - [How SNMP Works - a quick guide](https://www.youtube.com/watch?v=2IXP0TkwNJU&ab_channel=nagiosvideo)
 - [Introduction to SNMP - Simple Network Management Protocol](https://www.youtube.com/watch?v=ZX-XGQoISHQ&ab_channel=ElitheComputerGuy)
 
-
 # Extras
 - [Introducción a QEMU/KVM](https://www.youtube.com/watch?v=NGN9p4pulFM&feature=youtu.be&ab_channel=ParrotOSSchool) __ES MUY PROBABLE QUE VAYAMOS A NECESITAR DE ESTO__
-
-
-
-
-
-
 
