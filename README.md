@@ -14,7 +14,7 @@
   - *minuto 0:54-1:30*
   - *minuto 3:25-15:28*
 
-*_La siguiente información es un resumen de la información obtenida de un sitio perteneciente a la UNAM al cual puedes acceder [aquí](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/931/mod_resource/content/4/contenido/index.html)_*
+*La siguiente información es un resumen de la información obtenida de un sitio perteneciente a la UNAM al cual puedes acceder [aquí](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/931/mod_resource/content/4/contenido/index.html)*
 
 > De acuerdo con el modelo de referencia OSI, la transferencia de los datos inicia en la capa de aplicación, de una ubicación a otra. Para que la transferencia se realice de forma correcta, se deben proporcionar los recursos de red físicos y lógicos en forma oportuna y adecuada a los requerimientos previamente establecidos. La transferencia puede tener lugar dentro de un solo departamento, entre áreas de una organización o con entidades externas por medio de redes privadas o Internet.
 *La administración de redes consta de dos áreas:*
