@@ -45,6 +45,10 @@
 ### SMTP
 ### SNTP
 ### DHCP
+Dynamic Host Configuration Protocol.
+
+Protocolo de configuración dinámica. este protocolo permite a una red asignar direcciones IP (con la máscara de subred y el gateway) a equipos que se conecten a ella. sin embargo esta asignación de direcciones IP en la red, funcionan como un token que se actualiza automáticamente si los equipos están activos en la red.
+- [DHCP Explained - Dynamic Host Configuration Protocol (ver en velocidad 1.25)](https://www.youtube.com/watch?v=e6-TaH5bkjo)
 ### SNMP
 Sobre SNMP he encontrado dos videos que pueden ser de ayuda para tener nociones del protocolo: 
 - [How SNMP Works - a quick guide](https://www.youtube.com/watch?v=2IXP0TkwNJU&ab_channel=nagiosvideo)
